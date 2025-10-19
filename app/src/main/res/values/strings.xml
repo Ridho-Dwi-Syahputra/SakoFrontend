@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Sako</string>
+    <string name="alam_takambang_jadi_guru">“Alam takambang jadi Guru”</string>
+    <string name="jelajahi_fitur">Jelajahi Fitur</string>
+    <string name="aktivitas_terbaru">Aktivitas Terbaru</string>
+    <string name="nama_user">PTB Kelompok 5</string>
+    <string name="ayo_terus_belajar_dan_kumpulkan_xp">Ayo terus belajar dan kumpulkan XP!</string>
 </resources>
